@@ -1,7 +1,7 @@
 # CS6910_Assignment_2
 
 Instruction to run the code:
-Every colab files needs to be run cell by cell...!
+Every colab files need to be run cell by cell...!
 
 Question 2A:Below sweep config is used to train the model using wandb
 Grid search is used in this sweep:

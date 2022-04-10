@@ -107,3 +107,8 @@ config_defaults={
 #Ignore this and proceed
 #sweep_id=wandb.sweep(sweep_config,entity='rashmipathak',project='assignment_2B')
 #wandb.agent(sweep_id, PreTrain)
+
+Question2C. step1. Please download coco.names ,yolov3.cfg and yolov3.weights from below drive:
+https://drive.google.com/drive/folders/1JOprKM7oQvzoaYeqeV8o6YdjTPRUR_5m?usp=sharing
+
+2. place above files in your folder of google drive and give those path in the YOLO1.ipynb file to the corresponding arguments and again you can download  paris.mp4 video from the given drive or can use any other video for object detection...! 
